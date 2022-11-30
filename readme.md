@@ -33,3 +33,5 @@ Shopify: https://shopify.dev/api
 Fruugo: https://fruugo.atlassian.net/wiki/spaces/RR/overview
 
 Payoneer: https://developer.payoneer.com/docs/mass-payouts-and-services.html#/ec64bbcc26bbf-overview
+
+Kaufland(原德国Real): https://sellerapi.kaufland.com/?page=overview
