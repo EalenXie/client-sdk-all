@@ -29,3 +29,7 @@ ManoMano: https://documenter.getpostman.com/view/6076660/TzCJf9gc#intro
 LianLian(连连跨境): https://developer.lianlianglobal.com
 
 Shopify: https://shopify.dev/api
+
+Fruugo: https://fruugo.atlassian.net/wiki/spaces/RR/overview
+
+Payoneer: https://developer.payoneer.com/docs/mass-payouts-and-services.html#/ec64bbcc26bbf-overview

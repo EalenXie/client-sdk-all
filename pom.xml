@@ -19,6 +19,8 @@
         <module>ebay-sdk</module>
         <module>lianlian-sdk</module>
         <module>manomano-sdk</module>
+        <module>fruugo-sdk</module>
+        <module>payoneer-sdk</module>
     </modules>
     <description>Summarize all the SDK integration packages that connect to third-party request interfaces</description>
     <url>https://github.com/EalenXie/client-sdk-all</url>
